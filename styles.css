@@ -1,0 +1,33 @@
+.top {
+    border: 2px solid black;
+}
+
+.top span {
+    color: red;
+}
+
+.top input {
+    width: 280px;
+    margin-right: 10px;
+}
+
+.home-left, .home-middle, .home-right {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.home-left, .home-middle{
+    border-right: 2px solid black;
+}
+
+.view-hist {
+    margin-top: 18px;
+}
+
+.middle {
+    border: 2px solid black;
+}
+
+.bottom {
+    border: 2px solid black;
+}
